@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MusicalStructure</string>
+    <string name="button1">My PlayList</string>
+    <string name="button2">Play/Pause</string>
+    <string name="button3">Stop</string>
+    <string name="store">//This will be the store to purchase/download new songs\nI will use  In-app Billing Version 3 API</string>
+    <string name="description">This is the main activity.....taping the image will open its description and taping the play/pause button will play/pause song and stop button will stop the song and myplaylist button will show the list of songs and a button to download/purchase songs</string>
+</resources>
